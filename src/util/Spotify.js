@@ -1,6 +1,6 @@
 let accessToken;
 let clientID = '15c9b7552b7f40f38404b22a518d02fa';
-let redirectUri = 'https://elastic-hoover-4ba99e.netlify.app/'
+let redirectUri = 'https://jammming-dungpdbn.netlify.app/'
 
 const Spotify = {
     getAccessToken() {
